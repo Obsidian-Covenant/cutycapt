@@ -29,7 +29,7 @@ qt6-base qt6-webengine qt6-webchannel qt6-svg
 #### From source
 
 ```bash
-git clone https://github.com/Obsidian-Covenant/cutycapt.git
+git clone https://github.com/Obsidian-Covenant/CutyCapt.git
 cd cutycapt
 cmake -S . -B build -GNinja
 ninja -C build
